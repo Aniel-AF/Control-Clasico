@@ -39,25 +39,25 @@ Este espacio refleja mi aprendizaje en robótica, electrónica, programación y 
 
 ## 🚀 Proyectos destacados  
 ✅ Concluidos
--🤖 Control de brazo robótico con ATmega328P
--📡 ESP32 con MPU6050 y servidor web
--📱 App en Flutter con 27 subtemas
--☀️ Silla térmica con energía solar
--✋ Mano hidráulica
--💡 Dimmer para control de intensidad de luz
--⚖️ Péndulo y péndulo invertido
--🚗 Vehículo a control remoto mediante WiFi
--📡 Radar con sensor ultrasónico y Arduino Nano
--⚙️ Control PID de un motor de CD con encoder y Python
--🦾 Brazo robótico Thor
--🤲 Gripper electrohidráulico
--🔆 Control de variación de luz
-
+- 🤖 Control de brazo robótico con ATmega328P
+- 📡 ESP32 con MPU6050 y servidor web
+- 📱 App en Flutter con 27 subtemas
+- ☀️ Silla térmica con energía solar
+- ✋ Mano hidráulica
+- 💡 Dimmer para control de intensidad de luz
+- ⚖️ Péndulo y péndulo invertido
+- 🚗 Vehículo a control remoto mediante WiFi
+- 📡 Radar con sensor ultrasónico y Arduino Nano
+- ⚙️ Control PID de un motor de CD con encoder y Python
+- 🦾 Brazo robótico Thor
+- 🤲 Gripper electrohidráulico
+- 🔆 Control de variación de luz
+ 
 🔄 En desarrollo / No concluidos
--🌊 Mini submarino para exploración e investigación científica
--🚜 Diseño y simulación de un vehículo automático alimentado con paneles solares para agricultura sostenible
--👓 Sistema de movilidad para personas con discapacidad visual (no concluido)
--🛸 Drone (no concluido)
+- 🌊 Mini submarino para exploración e investigación científica
+- 🚜 Diseño y simulación de un vehículo automático alimentado con paneles solares para agricultura sostenible
+- 👓 Sistema de movilidad para personas con discapacidad visual (no concluido)
+- 🛸 Drone (no concluido)
 
 ---
 
